@@ -5,7 +5,7 @@ new Vue({
         testimonials : [
             {
                 title: "The best clinic in town",
-                p: "Voluptate tempore aperiam explicabo doloremque sunt possimus neque quo hic repudiandae fugit tenetur. Lorem ipsum dolor sit amet consectetur adipisicing elit."
+                p: ""
             },
             {
                 title: "Quick, easy & reliable",
