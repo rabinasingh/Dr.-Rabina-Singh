@@ -5,23 +5,23 @@ new Vue({
         testimonials : [
             {
                 title: "The best clinic in town",
-                p: ""
+                p: "Friendly environment"
             },
             {
                 title: "Quick, easy & reliable",
-                p: " Doloremque ipsum dolor sit amet voluptate tempore aperiam explicabo doloremque  adipisicing elit. sunt possimus neque quo hic repudiandae fugit tenetur."
+                p: " Fast and Quality service"
             },
             {
                 title: "The true professionals",
-                p: "Consectetur adipisicing elit. Voluptate tempore aperiam lorem ipsum dolor sit amet  doloremque sunt possimus neque quo hic repudiandae fugit tenetur."
+                p: "Treatment by experienced Dental surgeon."
             },
             {
                 title: "Highly Recommended",
-                p: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore aperiam explicabo doloremque sunt possimus neque quo hic repudiandae fugit tenetur."
+                p: " Quality service."
             },
             {
                 title: "Professional services",
-                p: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore aperiam explicabo doloremque sunt possimus neque quo hic repudiandae fugit tenetur."
+                p: "Experienced professionals."
             }
         ],
         activeTestimonial : [0, 1, 2]
@@ -77,26 +77,25 @@ new Vue({
             {
                 tab: "Root Canal Specialist",
                 title: "Fast & professional treatments for every patient",
-                p: "Duis sed odio sit amet nibh vulputate cursus a sit am maur Morbi accumsan sed ipsum velit. Nam nec tellus a od tincidunt auctor a ornare odio. Alia ludus animal ius te, ea amet necessitatibus vix. Solum persius voluptaria ad nostro quis odio scriptorem ex vim.",
+                p: "",
                 image: "Design/images/service-img-1.jpg"
             },
             {
                 tab: "Alignment Specialist",
                 title: "Easiest way to do something truly important for your smile",
-                p: "Duis sed odio sit amet nibh vulputate cursus a sit am maur Morbi accumsan sed ipsum velit. Nam nec tellus a od tincidunt auctor a ornare odio. Alia ludus animal ius te, ea amet necessitatibus vix. Solum persius voluptaria ad nostro quis odio scriptorem ex vim.",
+                p: "",
                 image: "Design/images/service-img-2.jpg"
             },
             {
                 tab: "Cosmetic Dentistry",
                 title: "Fast & professional treatments for every patient",
-                p: "Duis sed odio sit amet nibh vulputate cursus a sit am maur Morbi accumsan sed ipsum velit. Nam nec tellus a od tincidunt auctor a ornare odio. Alia ludus animal ius te, ea amet necessitatibus vix. Solum persius voluptaria ad nostro quis odio scriptorem ex vim.",
+                p: "",
                 image: "Design/images/service-img-3.jpg"
             },
             {
                 tab: "Live Dental Advisory",
                 title: "Easiest way to do something truly important for your smile",
-                p: "Duis sed odio sit amet nibh vulputate cursus a sit am maur Morbi accumsan sed ipsum velit. Nam nec tellus a od tincidunt auctor a ornare odio. Alia ludus animal ius te, ea amet necessitatibus vix. Solum persius voluptaria ad nostro quis odio scriptorem ex vim.",
-                image: "Design/images/service-img-4.jpg"
+                p: "
             }
         ],
         activeService: 0
